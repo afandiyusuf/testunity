@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 00e9bff0a27d7154aafecf269858b0f3
+timeCreated: 1461747526
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 3
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontNames: []
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0780c619ce9dc7478fdf44404390689, type: 3}
+  - {fileID: 12800000, guid: 321e4381016a1ba49b3fb7bd5ac40169, type: 3}
+  - {fileID: 12800000, guid: cd3d09e10424d864686326c364e037e5, type: 3}
+  - {fileID: 12800000, guid: 625251743d4f5b44694cc87f71ac78ad, type: 3}
+  - {fileID: 12800000, guid: 365be4351d54c904fbafbe21fe134967, type: 3}
+  - {fileID: 12800000, guid: 37b65c75ab3962d489f9a883bf3890c0, type: 3}
+  - {fileID: 12800000, guid: 9adc6ba55b64d664db2501932ec3bc44, type: 3}
+  - {fileID: 12800000, guid: 0917de5672a6b8c469ec54ccf5f28a99, type: 3}
+  - {fileID: 12800000, guid: dcd9ef66b648689418f290a4a2636628, type: 3}
+  - {fileID: 12800000, guid: 3bb25b869a29c294cb22a158f29f2d9f, type: 3}
+  - {fileID: 12800000, guid: 5b14eea62df13c84f8bca59abbe1d011, type: 3}
+  - {fileID: 12800000, guid: e57d3ca7f662c4e4ab51af32abd0cdbc, type: 3}
+  - {fileID: 12800000, guid: f163d9d74ba3f1c4a80e4f4d4226caaf, type: 3}
+  - {fileID: 12800000, guid: 58ff1f384f8842748bb25f14332ee666, type: 3}
+  - {fileID: 12800000, guid: a90bf44853f97aa448e965202155ce10, type: 3}
+  - {fileID: 12800000, guid: 6b7359a8f88d23d47989dfacf41de5a0, type: 3}
+  - {fileID: 12800000, guid: f2525a3947845a942b8e7966cc8f38ae, type: 3}
+  - {fileID: 12800000, guid: 5feaee5aa29fbed4baf56800cf2b63f6, type: 3}
+  - {fileID: 12800000, guid: e796cd7ab2dd7074690307199b0fbac4, type: 3}
+  - {fileID: 12800000, guid: 71ff46db052c1ad48a9140719b72d7fe, type: 3}
+  - {fileID: 12800000, guid: 9097481d395a7fb48b7f814c6c25f289, type: 3}
+  - {fileID: 12800000, guid: 3a822dce7cc34a24f9ecb174a7e97a88, type: 3}
+  - {fileID: 12800000, guid: 1a0d6fefea7fced48a3a11548873f34e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

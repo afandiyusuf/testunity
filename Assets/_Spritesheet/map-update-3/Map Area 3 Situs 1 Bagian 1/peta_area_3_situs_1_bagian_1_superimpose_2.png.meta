@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: da0b8ead647c9384aab8a6fe4a559c8b
+timeCreated: 1479896627
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: peta_area_3_situs_1_bagian_1_superimpose_2_0
+    21300002: peta_area_3_situs_1_bagian_1_superimpose_2_1
+    21300004: peta_area_3_situs_1_bagian_1_superimpose_2_2
+    21300006: peta_area_3_situs_1_bagian_1_superimpose_2_3
+    21300008: peta_area_3_situs_1_bagian_1_superimpose_2_4
+    21300010: peta_area_3_situs_1_bagian_1_superimpose_2_5
+    21300012: peta_area_3_situs_1_bagian_1_superimpose_2_6
+    21300014: peta_area_3_situs_1_bagian_1_superimpose_2_7
+    21300016: peta_area_3_situs_1_bagian_1_superimpose_2_8
+    21300018: peta_area_3_situs_1_bagian_1_superimpose_2_9
+    21300020: peta_area_3_situs_1_bagian_1_superimpose_2_10
+    21300022: peta_area_3_situs_1_bagian_1_superimpose_2_11
+    21300024: peta_area_3_situs_1_bagian_1_superimpose_2_12
+    21300026: peta_area_3_situs_1_bagian_1_superimpose_2_13
+    21300028: peta_area_3_situs_1_bagian_1_superimpose_2_14
+    21300030: peta_area_3_situs_1_bagian_1_superimpose_2_15
+    21300032: peta_area_3_situs_1_bagian_1_superimpose_2_16
+    21300034: peta_area_3_situs_1_bagian_1_superimpose_2_17
+    21300036: peta_area_3_situs_1_bagian_1_superimpose_2_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1502
+        width: 192
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1448
+        width: 328
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_2
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1493
+        width: 232
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_3
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1518
+        width: 283
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_4
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1588
+        width: 66
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_5
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1462
+        width: 553
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_6
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 1512
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1420
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_8
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1384
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_9
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1374
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_10
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1413
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_11
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1431
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_12
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1289
+        width: 119
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_13
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1371
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_14
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1368
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_15
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1371
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_16
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1384
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_17
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1376
+        width: 113
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: peta_area_3_situs_1_bagian_1_superimpose_2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 832
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: e9750fd1d5f0acb4eb4284e8aede8c34
+timeCreated: 1463126045
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: avatar_kepala_1
+    21300002: avatar_kepala_2
+    21300004: avatar_kepala_3
+    21300006: avatar_kepala_4
+    21300008: avatar_laki-laki_badan_1
+    21300010: avatar_laki-laki_badan_2
+    21300012: avatar_laki-laki_badan_3
+    21300014: avatar_laki-laki_badan_4
+    21300016: avatar_laki-laki_badan_5
+    21300018: avatar_muka_1
+    21300020: avatar_muka_3
+    21300022: avatar_muka_4
+    21300024: avatar_muka_5
+    21300026: avatar_perempuan_badan_1
+    21300028: avatar_perempuan_badan_2
+    21300030: avatar_perempuan_badan_3
+    21300032: avatar_perempuan_badan_4
+    21300034: avatar_perempuan_badan_5
+    21300036: avatar_rambut_perempuan_belakang_1
+    21300038: avatar_rambut_perempuan_belakang_1_highlight
+    21300040: avatar_rambut_perempuan_belakang_1_middle
+    21300042: avatar_rambut_perempuan_belakang_1_outline
+    21300044: avatar_rambut_perempuan_belakang_1_shadow
+    21300046: avatar_rambut_perempuan_belakang_2
+    21300048: avatar_rambut_perempuan_belakang_2_highlight
+    21300050: avatar_rambut_perempuan_belakang_2_middle
+    21300052: avatar_rambut_perempuan_belakang_2_outline
+    21300054: avatar_rambut_perempuan_belakang_2_shadow
+    21300056: avatar_rambut_perempuan_belakang_3
+    21300058: avatar_rambut_perempuan_belakang_3_highlight
+    21300060: avatar_rambut_perempuan_belakang_3_middle
+    21300062: avatar_rambut_perempuan_belakang_3_outline
+    21300064: avatar_rambut_perempuan_belakang_3_shadow
+    21300066: avatar_rambut_perempuan_belakang_4
+    21300068: avatar_rambut_perempuan_belakang_4_highlight
+    21300070: avatar_rambut_perempuan_belakang_4_middle
+    21300072: avatar_rambut_perempuan_belakang_4_outline
+    21300074: avatar_rambut_perempuan_belakang_4_shadow
+    21300076: avatar_rambut_perempuan_belakang_5
+    21300078: avatar_rambut_perempuan_belakang_5_highlight
+    21300080: avatar_rambut_perempuan_belakang_5_middle
+    21300082: avatar_rambut_perempuan_belakang_5_outline
+    21300084: avatar_rambut_perempuan_belakang_5_shadow
+    21300086: avatar_rambut_perempuan_laki-laki_1
+    21300088: avatar_rambut_perempuan_laki-laki_1_highlight
+    21300090: avatar_rambut_perempuan_laki-laki_1_middle
+    21300092: avatar_rambut_perempuan_laki-laki_1_outline
+    21300094: avatar_rambut_perempuan_laki-laki_1_shadow
+    21300096: avatar_rambut_perempuan_laki-laki_2
+    21300098: avatar_rambut_perempuan_laki-laki_2_highlight
+    21300100: avatar_rambut_perempuan_laki-laki_2_middle
+    21300102: avatar_rambut_perempuan_laki-laki_2_outline
+    21300104: avatar_rambut_perempuan_laki-laki_2_shadow
+    21300106: avatar_rambut_perempuan_laki-laki_3
+    21300108: avatar_rambut_perempuan_laki-laki_3_highlight
+    21300110: avatar_rambut_perempuan_laki-laki_3_middle
+    21300112: avatar_rambut_perempuan_laki-laki_3_outline
+    21300114: avatar_rambut_perempuan_laki-laki_3_shadow
+    21300116: avatar_rambut_perempuan_laki-laki_4
+    21300118: avatar_rambut_perempuan_laki-laki_4_highlight
+    21300120: avatar_rambut_perempuan_laki-laki_4_middle
+    21300122: avatar_rambut_perempuan_laki-laki_4_outline
+    21300124: avatar_rambut_perempuan_laki-laki_4_shadow
+    21300126: avatar_rambut_perempuan_laki-laki_5
+    21300128: avatar_rambut_perempuan_laki-laki_5_highlight
+    21300130: avatar_rambut_perempuan_laki-laki_5_middle
+    21300132: avatar_rambut_perempuan_laki-laki_5_outline
+    21300134: avatar_rambut_perempuan_laki-laki_5_shadow
+    21300136: Badan - Laki2-avatar_laki-laki_badan_1
+    21300138: Badan - Laki2-avatar_laki-laki_badan_2
+    21300140: Badan - Laki2-avatar_laki-laki_badan_3
+    21300142: Badan - Laki2-avatar_laki-laki_badan_4
+    21300144: Badan - Laki2-avatar_laki-laki_badan_5
+    21300146: Badan - Perempuan-avatar_perempuan_badan_1
+    21300148: Badan - Perempuan-avatar_perempuan_badan_2
+    21300150: Badan - Perempuan-avatar_perempuan_badan_3
+    21300152: Badan - Perempuan-avatar_perempuan_badan_4
+    21300154: Badan - Perempuan-avatar_perempuan_badan_5
+    21300156: Kepala-avatar_kepala_1
+    21300158: Kepala-avatar_kepala_2
+    21300160: Kepala-avatar_kepala_3
+    21300162: Kepala-avatar_kepala_4
+    21300164: Muka-avatar_muka_1
+    21300166: Muka-avatar_muka_2
+    21300168: Muka-avatar_muka_3
+    21300170: Muka-avatar_muka_4
+    21300172: Muka-avatar_muka_5
+    21300174: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_1_highlight
+    21300176: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_1_middle
+    21300178: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_1_outline
+    21300180: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_1_shadow
+    21300182: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_2_highlight
+    21300184: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_2_middle
+    21300186: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_2_outline
+    21300188: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_2_shadow
+    21300190: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_3_highlight
+    21300192: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_3_middle
+    21300194: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_3_outline
+    21300196: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_3_shadow
+    21300198: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_4_highlight
+    21300200: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_4_middle
+    21300202: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_4_outline
+    21300204: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_4_shadow
+    21300206: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_5_highlight
+    21300208: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_5_middle
+    21300210: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_5_outline
+    21300212: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_5_shadow
+    21300214: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_1_highlight
+    21300216: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_1_middle
+    21300218: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_1_outline
+    21300220: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_1_shadow
+    21300222: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_2_highlight
+    21300224: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_2_middle
+    21300226: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_2_outline
+    21300228: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_2_shadow
+    21300230: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_3_highlight
+    21300232: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_3_middle
+    21300234: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_3_outline
+    21300236: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_3_shadow
+    21300238: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_4_highlight
+    21300240: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_4_middle
+    21300242: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_4_outline
+    21300244: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_4_shadow
+    21300246: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_5_highlight
+    21300248: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_5_middle
+    21300250: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_5_outline
+    21300252: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_5_shadow
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Badan - Laki2-avatar_laki-laki_badan_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 527
+        width: 129
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5271318, y: 0.65587044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Badan - Laki2-avatar_laki-laki_badan_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 783
+        width: 129
+        height: 240
+      alignment: 9
+      pivot: {x: 0.503876, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Badan - Laki2-avatar_laki-laki_badan_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 787
+        width: 134
+        height: 236
+      alignment: 9
+      pivot: {x: 0.49253732, y: 0.6737288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Badan - Laki2-avatar_laki-laki_badan_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 543
+        width: 127
+        height: 238
+      alignment: 9
+      pivot: {x: 0.51968503, y: 0.6722689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Badan - Laki2-avatar_laki-laki_badan_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 776
+        width: 134
+        height: 247
+      alignment: 9
+      pivot: {x: 0.49253732, y: 0.65587044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Badan - Perempuan-avatar_perempuan_badan_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 289
+        width: 135
+        height: 238
+      alignment: 9
+      pivot: {x: 0.4962963, y: 0.6764706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Badan - Perempuan-avatar_perempuan_badan_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 529
+        width: 132
+        height: 245
+      alignment: 9
+      pivot: {x: 0.50757575, y: 0.6571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Badan - Perempuan-avatar_perempuan_badan_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 138
+        height: 239
+      alignment: 9
+      pivot: {x: 0.49275362, y: 0.6736402}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Badan - Perempuan-avatar_perempuan_badan_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 52
+        width: 132
+        height: 235
+      alignment: 9
+      pivot: {x: 0.50757575, y: 0.6851064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Badan - Perempuan-avatar_perempuan_badan_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 280
+        width: 134
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6571429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Kepala-avatar_kepala_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 149
+        width: 125
+        height: 139
+      alignment: 9
+      pivot: {x: 0.512, y: -0.26618704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Kepala-avatar_kepala_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 417
+        width: 130
+        height: 131
+      alignment: 9
+      pivot: {x: 0.53846157, y: -0.34351146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Kepala-avatar_kepala_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 396
+        width: 141
+        height: 145
+      alignment: 9
+      pivot: {x: 0.4964539, y: -0.2137931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Kepala-avatar_kepala_4
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 15
+        width: 139
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5467626, y: -0.34814814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Muka-avatar_muka_1
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 946
+        width: 111
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5315315, y: -0.83116883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Muka-avatar_muka_2
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 697
+        width: 96
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5208333, y: -0.7808219}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Muka-avatar_muka_3
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 940
+        width: 103
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5145631, y: -0.6385542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Muka-avatar_muka_4
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 553
+        width: 105
+        height: 97
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.63917524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Muka-avatar_muka_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 542
+        width: 87
+        height: 78
+      alignment: 9
+      pivot: {x: 0.54022986, y: -0.7051282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_1_highlight
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 292
+        width: 90
+        height: 102
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0.13725491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_1_middle
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 523
+        width: 87
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5862069, y: -0.46376812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_1_outline
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 54
+        width: 97
+        height: 93
+      alignment: 9
+      pivot: {x: 0.556701, y: -0.16129032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_1_shadow
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 942
+        width: 78
+        height: 81
+      alignment: 9
+      pivot: {x: 0.61538464, y: -0.19753087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_2_highlight
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 33
+        width: 153
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5555556, y: -0.265625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_2_middle
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 184
+        width: 130
+        height: 109
+      alignment: 9
+      pivot: {x: 0.53846157, y: -0.39449543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_2_outline
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 294
+        width: 153
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5816994, y: -0.25619835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_2_shadow
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 295
+        width: 148
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5540541, y: -0.296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_3_highlight
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 882
+        width: 167
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5868263, y: -0.8035714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_3_middle
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 9
+        width: 157
+        height: 41
+      alignment: 9
+      pivot: {x: 0.54140127, y: -1.2439024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_3_outline
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 447
+        width: 181
+        height: 74
+      alignment: 9
+      pivot: {x: 0.49171272, y: -0.4189189}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_3_shadow
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1
+        width: 156
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5576923, y: -0.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_4_highlight
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 772
+        width: 101
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5247525, y: -0.32407406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_4_middle
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 290
+        width: 117
+        height: 104
+      alignment: 9
+      pivot: {x: 0.4957265, y: -0.5192308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_4_outline
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 169
+        width: 111
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5225225, y: -0.21774194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_4_shadow
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 550
+        width: 116
+        height: 100
+      alignment: 9
+      pivot: {x: 0.54310346, y: -0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_5_highlight
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 652
+        width: 121
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5206612, y: -0.05263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_5_middle
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 163
+        width: 122
+        height: 129
+      alignment: 9
+      pivot: {x: 0.52459013, y: -0.1627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_5_outline
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 152
+        width: 130
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5307692, y: -0.1521739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Belakang-avatar_rambut_perempuan_belakang_5_shadow
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 422
+        width: 134
+        height: 129
+      alignment: 9
+      pivot: {x: 0.48507464, y: -0.07751938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_1_highlight
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 726
+        width: 113
+        height: 73
+      alignment: 9
+      pivot: {x: 0.49557522, y: -1.630137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_1_middle
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 652
+        width: 126
+        height: 72
+      alignment: 9
+      pivot: {x: 0.54761904, y: -1.6111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_1_outline
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 940
+        width: 130
+        height: 83
+      alignment: 9
+      pivot: {x: 0.47692308, y: -1.3253012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_1_shadow
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 491
+        width: 113
+        height: 73
+      alignment: 9
+      pivot: {x: 0.49557522, y: -1.630137}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_2_highlight
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 874
+        width: 120
+        height: 72
+      alignment: 9
+      pivot: {x: 0.59166664, y: -1.5833334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_2_middle
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 594
+        width: 109
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4678899, y: -2.0833333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_2_outline
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 948
+        width: 120
+        height: 75
+      alignment: 9
+      pivot: {x: 0.6, y: -1.4933333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_2_shadow
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 566
+        width: 115
+        height: 71
+      alignment: 9
+      pivot: {x: 0.6086956, y: -1.6056339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_3_highlight
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 786
+        width: 117
+        height: 86
+      alignment: 9
+      pivot: {x: 0.52991456, y: -1.1511627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_3_middle
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 656
+        width: 109
+        height: 68
+      alignment: 9
+      pivot: {x: 0.47706422, y: -1.6617647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_3_outline
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 801
+        width: 112
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5089286, y: -1.2619047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_3_shadow
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 639
+        width: 115
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5478261, y: -1.5135136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_4_highlight
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 887
+        width: 110
+        height: 57
+      alignment: 9
+      pivot: {x: 0.54545456, y: -2.1052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_4_middle
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 883
+        width: 113
+        height: 55
+      alignment: 9
+      pivot: {x: 0.48672566, y: -2.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_4_outline
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 715
+        width: 116
+        height: 69
+      alignment: 9
+      pivot: {x: 0.54310346, y: -1.7101449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_4_shadow
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 728
+        width: 108
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5185185, y: -2.1052632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_5_highlight
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 787
+        width: 133
+        height: 85
+      alignment: 9
+      pivot: {x: 0.518797, y: -1.1411765}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_5_middle
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 622
+        width: 126
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5873016, y: -1.5342466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_5_outline
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 790
+        width: 134
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5671642, y: -1.1111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: Rambut Perempuan Laki2 Depan-avatar_rambut_perempuan_laki-laki_5_shadow
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 56
+        width: 131
+        height: 91
+      alignment: 9
+      pivot: {x: 0.519084, y: -1.0549451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: avatar_depan
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

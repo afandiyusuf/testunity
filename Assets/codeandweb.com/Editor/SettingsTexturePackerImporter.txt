@@ -1,0 +1,23 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/_AllAssets/TexturePacker/AvatarDepanSprite/AvatarDepan.tpsheet
+- Assets/_Spritesheet/AvatarDepan/AvatarDepan.tpsheet
+- Assets/_Spritesheet/AvatarDepanBigPanel.tpsheet
+- Assets/_Spritesheet/AvatarUI.tpsheet
+- Assets/_Spritesheet/LoginScreen.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/_AllAssets/TexturePacker/AvatarDepanSprite/AvatarDepan.pvr
+- Assets/_Spritesheet/AvatarDepan/AvatarDepan.png
+- Assets/_Spritesheet/AvatarDepanBigPanel.png
+- Assets/_Spritesheet/AvatarUI.png
+- Assets/_Spritesheet/LoginScreen.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png

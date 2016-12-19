@@ -1,0 +1,5 @@
+MiniGame1_drag       > ketika menggerakkan kotak
+MiniGame1_correct    > kotak di posisi baru
+MiniGame1_swipe      > ketika user swipe mengikuti angka/huruf
+MiniGame1_correct 2  > ketika poin swipe kena
+MiniGame1_wrong      > gagal 

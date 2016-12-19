@@ -1,0 +1,903 @@
+fileFormatVersion: 2
+guid: 85745a8a10d589f4a842040641594a49
+timeCreated: 1464248999
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Laki-laki 1-01
+    21300002: Laki-laki 2-01
+    21300004: Laki-laki 3-01
+    21300006: Laki-laki 4-01
+    21300008: Laki-laki 5-01
+    21300010: Muka 1-01
+    21300012: Muka 2-01
+    21300014: Muka 3-01
+    21300016: Muka 4-01
+    21300018: Muka 5-01
+    21300020: Perempuan 1-01
+    21300022: Perempuan 2-01
+    21300024: Perempuan 3-01
+    21300026: Perempuan 4-01
+    21300028: Perempuan 5-01
+    21300030: avatarScreen_avatarSelect_active
+    21300032: avatarScreen_avatarSelect_default
+    21300034: avatarScreen_containerMenu_default
+    21300036: avatarScreen_headerTitle_default
+    21300038: avatarScreen_manButton_active
+    21300040: avatarScreen_manButton_normal
+    21300042: avatarScreen_womanButton_active
+    21300044: avatarScreen_womanButton_normal
+    21300046: global_button_rectangle_default
+    21300048: global_button_rectangle_hit
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 1
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 1
+  spriteSheet:
+    sprites:
+    - name: Laki-laki 1-01
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1670
+        width: 422
+        height: 377
+      alignment: 9
+      pivot: {x: 0.45023698, y: 0.4297082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -71}
+        - {x: 124, y: -53}
+        - {x: 138, y: -53}
+        - {x: 151, y: -48}
+        - {x: 167, y: -34}
+        - {x: 174, y: -17}
+        - {x: 170, y: 12}
+        - {x: 165, y: 20}
+        - {x: 182, y: 37}
+        - {x: 181, y: 52}
+        - {x: 217, y: 80}
+        - {x: 217, y: 83}
+        - {x: 216, y: 85}
+        - {x: 180, y: 94}
+        - {x: 141, y: 121}
+        - {x: 116, y: 142}
+        - {x: 104, y: 163}
+        - {x: 81, y: 180}
+        - {x: 31, y: 200}
+        - {x: -11, y: 200}
+        - {x: -48, y: 197}
+        - {x: -89, y: 185}
+        - {x: -103, y: 176}
+        - {x: -149, y: 133}
+        - {x: -171, y: 102}
+        - {x: -169, y: 51}
+        - {x: -163, y: 19}
+        - {x: -170, y: -6}
+        - {x: -175, y: -26}
+        - {x: -175, y: -55}
+        - {x: -168, y: -78}
+        - {x: -150, y: -110}
+        - {x: -120, y: -136}
+        - {x: -102, y: -144}
+        - {x: -84, y: -147}
+        - {x: -42, y: -147}
+        - {x: -16, y: -144}
+        - {x: 51, y: -127}
+        - {x: 93, y: -104}
+    - name: Laki-laki 2-01
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1073
+        width: 377
+        height: 366
+      alignment: 9
+      pivot: {x: 0.5039788, y: 0.44262296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -71}
+        - {x: 124, y: -53}
+        - {x: 139, y: -55}
+        - {x: 163, y: -40}
+        - {x: 172, y: -23}
+        - {x: 172, y: 13}
+        - {x: 151, y: 32}
+        - {x: 152, y: 63}
+        - {x: 148, y: 90}
+        - {x: 141, y: 111}
+        - {x: 128, y: 135}
+        - {x: 110, y: 154}
+        - {x: 94, y: 166}
+        - {x: 69, y: 178}
+        - {x: 45, y: 185}
+        - {x: 18, y: 189}
+        - {x: -17, y: 189}
+        - {x: -49, y: 185}
+        - {x: -89, y: 172}
+        - {x: -122, y: 145}
+        - {x: -152, y: 121}
+        - {x: -175, y: 91}
+        - {x: -175, y: 60}
+        - {x: -169, y: 48}
+        - {x: -163, y: 19}
+        - {x: -175, y: -26}
+        - {x: -175, y: -55}
+        - {x: -168, y: -78}
+        - {x: -150, y: -110}
+        - {x: -120, y: -136}
+        - {x: -102, y: -146}
+        - {x: -87, y: -147}
+        - {x: -32, y: -147}
+        - {x: -16, y: -144}
+        - {x: 51, y: -127}
+        - {x: 93, y: -104}
+    - name: Laki-laki 3-01
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 305
+        width: 377
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5039788, y: 0.44751382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -71}
+        - {x: 124, y: -53}
+        - {x: 139, y: -55}
+        - {x: 163, y: -40}
+        - {x: 172, y: -23}
+        - {x: 172, y: 3}
+        - {x: 170, y: 12}
+        - {x: 160, y: 24}
+        - {x: 155, y: 40}
+        - {x: 153, y: 98}
+        - {x: 143, y: 117}
+        - {x: 123, y: 140}
+        - {x: 110, y: 149}
+        - {x: 55, y: 177}
+        - {x: 21, y: 185}
+        - {x: -30, y: 185}
+        - {x: -71, y: 177}
+        - {x: -101, y: 166}
+        - {x: -131, y: 143}
+        - {x: -133, y: 136}
+        - {x: -155, y: 100}
+        - {x: -164, y: 84}
+        - {x: -164, y: 78}
+        - {x: -163, y: 29}
+        - {x: -170, y: -6}
+        - {x: -175, y: -26}
+        - {x: -175, y: -55}
+        - {x: -168, y: -78}
+        - {x: -150, y: -110}
+        - {x: -120, y: -136}
+        - {x: -102, y: -144}
+        - {x: -84, y: -147}
+        - {x: -42, y: -147}
+        - {x: -16, y: -144}
+        - {x: 51, y: -127}
+        - {x: 93, y: -104}
+    - name: Laki-laki 4-01
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 228
+        width: 377
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5039788, y: 0.44875348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -71}
+        - {x: 124, y: -53}
+        - {x: 139, y: -56}
+        - {x: 169, y: -35}
+        - {x: 172, y: -27}
+        - {x: 172, y: 2}
+        - {x: 169, y: 17}
+        - {x: 158, y: 25}
+        - {x: 158, y: 55}
+        - {x: 152, y: 94}
+        - {x: 135, y: 130}
+        - {x: 127, y: 144}
+        - {x: 107, y: 159}
+        - {x: 87, y: 167}
+        - {x: 72, y: 169}
+        - {x: 32, y: 183}
+        - {x: 17, y: 184}
+        - {x: -31, y: 184}
+        - {x: -47, y: 180}
+        - {x: -78, y: 168}
+        - {x: -110, y: 148}
+        - {x: -133, y: 126}
+        - {x: -152, y: 101}
+        - {x: -169, y: 61}
+        - {x: -169, y: 48}
+        - {x: -165, y: 45}
+        - {x: -164, y: 19}
+        - {x: -175, y: -26}
+        - {x: -175, y: -55}
+        - {x: -168, y: -78}
+        - {x: -150, y: -110}
+        - {x: -120, y: -136}
+        - {x: -102, y: -146}
+        - {x: -87, y: -147}
+        - {x: -32, y: -147}
+        - {x: -16, y: -144}
+        - {x: 51, y: -127}
+        - {x: 93, y: -104}
+    - name: Laki-laki 5-01
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1060
+        width: 387
+        height: 379
+      alignment: 9
+      pivot: {x: 0.5167959, y: 0.42744064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -71}
+        - {x: 140, y: -57}
+        - {x: 169, y: -35}
+        - {x: 172, y: -24}
+        - {x: 172, y: 8}
+        - {x: 164, y: 23}
+        - {x: 164, y: 56}
+        - {x: 155, y: 94}
+        - {x: 136, y: 146}
+        - {x: 126, y: 154}
+        - {x: 93, y: 175}
+        - {x: 81, y: 180}
+        - {x: 44, y: 202}
+        - {x: 2, y: 202}
+        - {x: -36, y: 196}
+        - {x: -58, y: 199}
+        - {x: -86, y: 180}
+        - {x: -108, y: 180}
+        - {x: -136, y: 153}
+        - {x: -153, y: 143}
+        - {x: -180, y: 111}
+        - {x: -185, y: 95}
+        - {x: -185, y: 75}
+        - {x: -167, y: 51}
+        - {x: -175, y: 38}
+        - {x: -178, y: 33}
+        - {x: -170, y: -6}
+        - {x: -177, y: -34}
+        - {x: -173, y: -64}
+        - {x: -157, y: -100}
+        - {x: -150, y: -111}
+        - {x: -120, y: -136}
+        - {x: -102, y: -146}
+        - {x: -87, y: -147}
+        - {x: -32, y: -147}
+        - {x: -16, y: -144}
+        - {x: 51, y: -127}
+        - {x: 93, y: -104}
+    - name: Muka 1-01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1546
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -250.5, y: 250.5}
+        - {x: -250.5, y: -250.5}
+        - {x: 250.5, y: -250.5}
+        - {x: 250.5, y: 250.5}
+    - name: Muka 2-01
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1546
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -250.5, y: 250.5}
+        - {x: -250.5, y: -250.5}
+        - {x: 250.5, y: -250.5}
+        - {x: 250.5, y: 250.5}
+    - name: Muka 3-01
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1043
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -250.5, y: 250.5}
+        - {x: -250.5, y: -250.5}
+        - {x: 250.5, y: -250.5}
+        - {x: 250.5, y: 250.5}
+    - name: Muka 4-01
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1546
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -250.5, y: 250.5}
+        - {x: -250.5, y: -250.5}
+        - {x: 250.5, y: -250.5}
+        - {x: 250.5, y: 250.5}
+    - name: Muka 5-01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 760
+        width: 501
+        height: 501
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -250.5, y: 250.5}
+        - {x: -250.5, y: -250.5}
+        - {x: 250.5, y: -250.5}
+        - {x: 250.5, y: 250.5}
+    - name: Perempuan 1-01
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 275
+        width: 437
+        height: 394
+      alignment: 9
+      pivot: {x: 0.4347826, y: 0.4543147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 232, y: -130}
+        - {x: 232, y: -117}
+        - {x: 205, y: -97}
+        - {x: 185, y: -94}
+        - {x: 189, y: -24}
+        - {x: 187, y: -13}
+        - {x: 167, y: 19}
+        - {x: 183, y: 37}
+        - {x: 186, y: 55}
+        - {x: 214, y: 77}
+        - {x: 217, y: 81}
+        - {x: 216, y: 84}
+        - {x: 206, y: 87}
+        - {x: 179, y: 93}
+        - {x: 141, y: 121}
+        - {x: 116, y: 142}
+        - {x: 104, y: 163}
+        - {x: 81, y: 180}
+        - {x: 31, y: 200}
+        - {x: -11, y: 200}
+        - {x: -48, y: 197}
+        - {x: -89, y: 185}
+        - {x: -103, y: 176}
+        - {x: -149, y: 133}
+        - {x: -171, y: 102}
+        - {x: -169, y: 51}
+        - {x: -163, y: 19}
+        - {x: -175, y: -25}
+        - {x: -175, y: -49}
+        - {x: -173, y: -64}
+        - {x: -168, y: -78}
+        - {x: -150, y: -110}
+        - {x: -133, y: -126}
+        - {x: -120, y: -136}
+        - {x: -94, y: -148}
+        - {x: -40, y: -149}
+        - {x: 36, y: -132}
+        - {x: 56, y: -148}
+        - {x: 78, y: -160}
+        - {x: 94, y: -164}
+        - {x: 133, y: -164}
+        - {x: 168, y: -155}
+        - {x: 180, y: -152}
+        - {x: 224, y: -134}
+    - name: Perempuan 2-01
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 591
+        width: 425
+        height: 450
+      alignment: 9
+      pivot: {x: 0.52, y: 0.5466667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: -181}
+        - {x: 90, y: -180}
+        - {x: 128, y: -166}
+        - {x: 142, y: -150}
+        - {x: 176, y: -134}
+        - {x: 187, y: -119}
+        - {x: 189, y: -113}
+        - {x: 189, y: -81}
+        - {x: 188, y: -69}
+        - {x: 172, y: -30}
+        - {x: 173, y: -16}
+        - {x: 172, y: 5}
+        - {x: 167, y: 16}
+        - {x: 159, y: 28}
+        - {x: 147, y: 97}
+        - {x: 129, y: 136}
+        - {x: 110, y: 155}
+        - {x: 95, y: 167}
+        - {x: 45, y: 187}
+        - {x: 22, y: 189}
+        - {x: -30, y: 189}
+        - {x: -75, y: 179}
+        - {x: -94, y: 168}
+        - {x: -122, y: 144}
+        - {x: -169, y: 102}
+        - {x: -177, y: 78}
+        - {x: -176, y: 57}
+        - {x: -162, y: 40}
+        - {x: -164, y: 6}
+        - {x: -175, y: -20}
+        - {x: -176, y: -55}
+        - {x: -169, y: -78}
+        - {x: -150, y: -110}
+        - {x: -129, y: -134}
+        - {x: -157, y: -161}
+        - {x: -193, y: -155}
+        - {x: -200, y: -149}
+        - {x: -206, y: -150}
+        - {x: -206, y: -165}
+        - {x: -202, y: -178}
+        - {x: -183, y: -193}
+        - {x: -171, y: -198}
+        - {x: -146, y: -202}
+        - {x: -131, y: -217}
+        - {x: -110, y: -229}
+        - {x: -81, y: -231}
+        - {x: -51, y: -231}
+        - {x: -23, y: -222}
+        - {x: 23, y: -212}
+        - {x: 49, y: -200}
+    - name: Perempuan 3-01
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 671
+        width: 500
+        height: 370
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: -117}
+        - {x: 93, y: -130}
+        - {x: 107, y: -145}
+        - {x: 140, y: -155}
+        - {x: 142, y: -155}
+        - {x: 180, y: -152}
+        - {x: 201, y: -145}
+        - {x: 215, y: -136}
+        - {x: 237, y: -116}
+        - {x: 249, y: -92}
+        - {x: 250, y: -87}
+        - {x: 250, y: -68}
+        - {x: 244, y: -65}
+        - {x: 210, y: -71}
+        - {x: 201, y: -28}
+        - {x: 182, y: -5}
+        - {x: 170, y: 12}
+        - {x: 160, y: 24}
+        - {x: 154, y: 39}
+        - {x: 154, y: 88}
+        - {x: 144, y: 118}
+        - {x: 124, y: 141}
+        - {x: 63, y: 174}
+        - {x: 22, y: 185}
+        - {x: -31, y: 185}
+        - {x: -71, y: 178}
+        - {x: -120, y: 153}
+        - {x: -133, y: 136}
+        - {x: -161, y: 98}
+        - {x: -166, y: 61}
+        - {x: -165, y: 20}
+        - {x: -167, y: -2}
+        - {x: -193, y: -29}
+        - {x: -199, y: -44}
+        - {x: -208, y: -84}
+        - {x: -229, y: -76}
+        - {x: -242, y: -94}
+        - {x: -242, y: -122}
+        - {x: -224, y: -145}
+        - {x: -210, y: -150}
+        - {x: -181, y: -155}
+        - {x: -136, y: -155}
+        - {x: -121, y: -150}
+        - {x: -40, y: -148}
+        - {x: 33, y: -133}
+    - name: Perempuan 4-01
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 669
+        width: 380
+        height: 389
+      alignment: 9
+      pivot: {x: 0.50789475, y: 0.48843187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 172, y: -62}
+        - {x: 172, y: 10}
+        - {x: 162, y: 27}
+        - {x: 152, y: 94}
+        - {x: 127, y: 144}
+        - {x: 108, y: 161}
+        - {x: 73, y: 171}
+        - {x: 32, y: 181}
+        - {x: 13, y: 184}
+        - {x: -26, y: 184}
+        - {x: -47, y: 182}
+        - {x: -100, y: 157}
+        - {x: -142, y: 117}
+        - {x: -164, y: 81}
+        - {x: -171, y: 48}
+        - {x: -163, y: 29}
+        - {x: -170, y: -6}
+        - {x: -177, y: -33}
+        - {x: -177, y: -46}
+        - {x: -166, y: -88}
+        - {x: -178, y: -150}
+        - {x: -178, y: -162}
+        - {x: -168, y: -164}
+        - {x: -120, y: -134}
+        - {x: -105, y: -143}
+        - {x: -82, y: -149}
+        - {x: -33, y: -146}
+        - {x: 33, y: -132}
+        - {x: 71, y: -117}
+        - {x: 85, y: -109}
+        - {x: 92, y: -131}
+        - {x: 70, y: -166}
+        - {x: 70, y: -175}
+        - {x: 78, y: -175}
+        - {x: 95, y: -168}
+        - {x: 138, y: -143}
+        - {x: 153, y: -132}
+        - {x: 169, y: -100}
+    - name: Perempuan 5-01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 294
+        width: 430
+        height: 464
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.5323276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 195, y: -205}
+        - {x: 215, y: -178}
+        - {x: 215, y: -162}
+        - {x: 206, y: -160}
+        - {x: 213, y: -144}
+        - {x: 210, y: -113}
+        - {x: 205, y: -104}
+        - {x: 188, y: -90}
+        - {x: 194, y: -71}
+        - {x: 197, y: -43}
+        - {x: 169, y: 18}
+        - {x: 164, y: 60}
+        - {x: 144, y: 135}
+        - {x: 128, y: 157}
+        - {x: 82, y: 181}
+        - {x: 66, y: 180}
+        - {x: 54, y: 196}
+        - {x: 44, y: 202}
+        - {x: 8, y: 202}
+        - {x: -17, y: 191}
+        - {x: -36, y: 196}
+        - {x: -58, y: 199}
+        - {x: -86, y: 180}
+        - {x: -107, y: 176}
+        - {x: -118, y: 170}
+        - {x: -134, y: 150}
+        - {x: -153, y: 144}
+        - {x: -180, y: 111}
+        - {x: -185, y: 94}
+        - {x: -185, y: 73}
+        - {x: -168, y: 51}
+        - {x: -178, y: 32}
+        - {x: -167, y: 27}
+        - {x: -164, y: 3}
+        - {x: -174, y: -21}
+        - {x: -182, y: -59}
+        - {x: -179, y: -88}
+        - {x: -165, y: -112}
+        - {x: -177, y: -143}
+        - {x: -177, y: -159}
+        - {x: -166, y: -174}
+        - {x: -169, y: -184}
+        - {x: -184, y: -196}
+        - {x: -180, y: -208}
+        - {x: -162, y: -202}
+        - {x: -154, y: -214}
+        - {x: -122, y: -222}
+        - {x: -63, y: -200}
+        - {x: -64, y: -206}
+        - {x: -52, y: -222}
+        - {x: -34, y: -231}
+        - {x: 6, y: -232}
+        - {x: 66, y: -232}
+        - {x: 92, y: -225}
+        - {x: 128, y: -220}
+        - {x: 173, y: -215}
+    - name: avatarScreen_avatarSelect_active
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 14
+        width: 148
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 73.5}
+        - {x: -74, y: -55.5}
+        - {x: -49, y: -73.5}
+        - {x: 63, y: -73.5}
+        - {x: 74, y: -57.5}
+        - {x: 74, y: 49.5}
+        - {x: 64, y: 73.5}
+    - name: avatarScreen_avatarSelect_default
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 125
+        width: 145
+        height: 148
+      alignment: 9
+      pivot: {x: 0.50344825, y: 0.5033784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 57.5}
+        - {x: 33, y: 58.5}
+        - {x: -58, y: 58.5}
+        - {x: -58, y: -61.5}
+        - {x: 57, y: -61.5}
+        - {x: 57, y: 16.5}
+        - {x: 56, y: 43.5}
+    - name: avatarScreen_containerMenu_default
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1263
+        width: 699
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 207.5, y: 140.5}
+        - {x: 206.5, y: 139.5}
+        - {x: 194.5, y: 139.5}
+        - {x: 193.5, y: 140.5}
+        - {x: -96.5, y: 140.5}
+        - {x: -97.5, y: 139.5}
+        - {x: -104.5, y: 138.5}
+        - {x: -108.5, y: 140.5}
+        - {x: -157.5, y: 140.5}
+        - {x: -168.5, y: 139.5}
+        - {x: -169.5, y: 140.5}
+        - {x: -347.5, y: 140.5}
+        - {x: -349.5, y: 138.5}
+        - {x: -349.5, y: -138.5}
+        - {x: -347.5, y: -140.5}
+        - {x: 349.5, y: -140.5}
+        - {x: 349.5, y: 138.5}
+        - {x: 347.5, y: 140.5}
+    - name: avatarScreen_headerTitle_default
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1441
+        width: 476
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 180, y: 51.5}
+        - {x: 108, y: 37.5}
+        - {x: -6, y: 36.5}
+        - {x: -14, y: 41.5}
+        - {x: -171, y: 42.5}
+        - {x: -188, y: 51.5}
+        - {x: -233, y: 51.5}
+        - {x: -238, y: 41.5}
+        - {x: -238, y: -34.5}
+        - {x: -234, y: -44.5}
+        - {x: -231, y: -48.5}
+        - {x: -227, y: -51.5}
+        - {x: 238, y: -51.5}
+        - {x: 238, y: 35.5}
+        - {x: 209, y: 51.5}
+    - name: avatarScreen_manButton_active
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1107
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 76}
+        - {x: -67, y: 54}
+        - {x: -75, y: 36}
+        - {x: -75, y: -42}
+        - {x: -40, y: -76}
+        - {x: 49, y: -76}
+        - {x: 75, y: -70}
+        - {x: 75, y: 65}
+        - {x: 33, y: 76}
+    - name: avatarScreen_manButton_normal
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1514
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 65}
+        - {x: -64, y: 45}
+        - {x: -64, y: -25}
+        - {x: -52, y: -65}
+        - {x: 48, y: -65}
+        - {x: 64, y: -27}
+        - {x: 64, y: 64}
+        - {x: 60, y: 65}
+    - name: avatarScreen_womanButton_active
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 119
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 75}
+        - {x: -74, y: 50}
+        - {x: -74, y: -27}
+        - {x: -54, y: -61}
+        - {x: -35, y: -76}
+        - {x: 32, y: -76}
+        - {x: 75, y: -61}
+        - {x: 75, y: 54}
+        - {x: 44, y: 75}
+    - name: avatarScreen_womanButton_normal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 152
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 65}
+        - {x: -64, y: 45}
+        - {x: -64, y: -25}
+        - {x: -52, y: -65}
+        - {x: 48, y: -65}
+        - {x: 64, y: -27}
+        - {x: 64, y: 64}
+        - {x: 60, y: 65}
+    - name: global_button_rectangle_default
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 354
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 175, y: 37.5}
+        - {x: 170, y: 48.5}
+        - {x: 162, y: 56.5}
+        - {x: 158, y: 58.5}
+        - {x: -160, y: 58.5}
+        - {x: -174, y: 41.5}
+        - {x: -174, y: -51.5}
+        - {x: -160, y: -62.5}
+        - {x: 160, y: -62.5}
+        - {x: 175, y: -51.5}
+    - name: global_button_rectangle_hit
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1551
+        width: 354
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54273504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 175, y: 23.5}
+        - {x: 163, y: 37.5}
+        - {x: 161, y: 38.5}
+        - {x: -160, y: 38.5}
+        - {x: -174, y: 27.5}
+        - {x: -174, y: -53.5}
+        - {x: -161, y: -62.5}
+        - {x: 156, y: -62.5}
+        - {x: 165, y: -58.5}
+        - {x: 175, y: -50.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

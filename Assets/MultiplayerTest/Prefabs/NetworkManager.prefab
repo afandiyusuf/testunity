@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000010571399348}
+  m_IsPrefabParent: 1
+--- !u!1 &1000010571399348
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010556115684}
+  - 114: {fileID: 114000011484092028}
+  - 114: {fileID: 114000012519769748}
+  - 114: {fileID: 114000011253082202}
+  m_Layer: 0
+  m_Name: NetworkManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4000010556115684
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010571399348}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114000011253082202
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010571399348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61fb6de71ece8b842b66ba0c5f25cc2a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainText:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  secondText:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  thisMainText: {fileID: 0}
+  thisSecondText: {fileID: 0}
+  mainGameSession: {fileID: 0}
+--- !u!114 &114000011484092028
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010571399348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3cb74fecf90c4b4385bee1cdbcea3ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_BroadcastPort: 1991
+  m_BroadcastKey: 2222
+  m_BroadcastVersion: 1
+  m_BroadcastSubVersion: 1
+  m_BroadcastInterval: 1000
+  m_UseNetworkManager: 1
+  m_BroadcastData: HELLO
+  m_ShowGUI: 1
+  m_OffsetX: 0
+  m_OffsetY: 0
+  LongCheckHost: 2
+--- !u!114 &114000012519769748
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010571399348}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43087a9b35e456f45b6a7219e089daaf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameSession: game_idle
+  totalPlayer: 0
+  totalPlayerReady: 0
+  thisPlayer: 2
+  waitLobbyTime: 10
+  playerJoined: 0
+  localPlayerSession:
+  - playerNum: 0
+    playerName: 
+    playerScore: 0
+    playerGameSession: 
+    isHost: 0
+  - playerNum: 0
+    playerName: 
+    playerScore: 0
+    playerGameSession: 
+    isHost: 0
+  - playerNum: 0
+    playerName: 
+    playerScore: 0
+    playerGameSession: 
+    isHost: 0
